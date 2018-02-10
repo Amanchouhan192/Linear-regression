@@ -15,3 +15,5 @@ None
 Mean squared error: 2548.07
 Variance score: 0.47
 ```
+# finance_regression
+<a href="https://ibb.co/itiDT7"><img src="https://preview.ibb.co/cUeno7/Capture.png" alt="Capture" border="0"></a>
